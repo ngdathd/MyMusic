@@ -1,0 +1,42 @@
+[
+  {
+    "IdBaiHat": "1",
+    "TenBaiHat": "Hồng Nhan",
+    "HinhBaiHat": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/08/31/d/7/a/7/1693464028750_600.jpg",
+    "CaSi": "Jack",
+    "LinkBaiHat": "https://a128-z3.zmdcdn.me/49d8d54f8e91865b87463d00c6a495f8?authen=exp=1733308862~acl=/49d8d54f8e91865b87463d00c6a495f8*~hmac=65b8fe1c19712d7d10c65f1b9fb01ab0&fs=MHx3ZWJWNXwxMDMdUngNTmUsICdUngMjIxLjI3&filename=Hồng%20Nhan%20-%20Jack%20–%20J97.mp3",
+    "LuotThich": "245673"
+  },
+  {
+    "IdBaiHat": "2",
+    "TenBaiHat": "Lạc Trôi",
+    "HinhBaiHat": "https://avatar-ex-swe.nixcdn.com/playlist/2024/03/15/5/7/0/4/1710500795311_500.jpg",
+    "CaSi": "Sơn Tùng M-TP",
+    "LinkBaiHat": "https://a128-z3.zmdcdn.me/756ba39ea07eb46c326b54c999668a94?authen=exp=1733308733~acl=/756ba39ea07eb46c326b54c999668a94*~hmac=c3a85d8fbffd94f2e89738e00043cc06&fs=MHx3ZWJWNXwxMDMdUngNTmUsICdUngMjIxLjI3&filename=Lạc%20Trôi%20-%20Sơn%20Tùng%20M-TP.mp3",
+    "LuotThich": "528374"
+  },
+  {
+    "IdBaiHat": "3",
+    "TenBaiHat": "Gác Lại Âu Lo",
+    "HinhBaiHat": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/d/5/8/a/d58aa48a38c0a8dc89c95277b456bc75.jpg",
+    "CaSi": "Miu Lê, Da LAB",
+    "LinkBaiHat": "https://a128-z3.zmdcdn.me/a87be4ebd261a858c45ae5a2a12ec2ad?authen=exp=1733302960~acl=/a87be4ebd261a858c45ae5a2a12ec2ad*~hmac=d60361cd11a8c6bf223f998ced1ec29d&fs=MHx3ZWJWNXwxMDMdUngNTmUsICdUngMjIxLjI3&filename=Gác%20Lại%20Âu%20Lo-Da%20LAB,%20Miu%20Lê.mp3",
+    "LuotThich": "384512"
+  },
+  {
+    "IdBaiHat": "4",
+    "TenBaiHat": "Sóng Gió",
+    "HinhBaiHat": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/8/3/6/c/836cf31f036fb8f89b78cfd07cd77477.jpg",
+    "CaSi": "Jack, K-ICM",
+    "LinkBaiHat": "https://a128-z3.zmdcdn.me/33800e39cd649bd41476165f6cb4e1bb?authen=exp=1733302565~acl=/33800e39cd649bd41476165f6cb4e1bb*~hmac=97570065deb965be1663a7fcfa89b034&fs=MHx3ZWJWNXwxMDMdUngNTmUsICdUngMjIxLjI3&filename=Sóng%20Gió%20-%20Jack,%20K-ICM.mp3",
+    "LuotThich": "765384"
+  },
+  {
+    "IdBaiHat": "5",
+    "TenBaiHat": "Bống Bống Bang Bang",
+    "HinhBaiHat": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/covers/8/7/87ebd29b258eca540884c29ff64b00d4_1464756137.jpg",
+    "CaSi": "365 DaBand",
+    "LinkBaiHat": "https://a128-z3.zmdcdn.me/8189197c0c6adc13ac3ed306ac920b8b?authen=exp=1733309064~acl=/8189197c0c6adc13ac3ed306ac920b8b*~hmac=dae282286085e4683864c8bebe8a1074&fs=MHx3ZWJWNXwxMDMdUngNTmUsICdUngMjIxLjI3&filename=Bống%20Bống%20Bang%20Bang%20(Tấm%20Cám%20Chuyện%20Chưa%20Kể%20OST)%20-%20365DaBand.mp3",
+    "LuotThich": "924573"
+  }
+]

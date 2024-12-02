@@ -39,5 +39,6 @@
         android:text="Various Artists"
         android:textColor="#545452"
         android:textSize="14sp"
+        android:visibility="gone"
         android:textStyle="bold" />
 </LinearLayout>

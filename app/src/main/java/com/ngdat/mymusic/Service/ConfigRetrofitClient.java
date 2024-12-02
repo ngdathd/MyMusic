@@ -23,6 +23,7 @@ public class ConfigRetrofitClient {
                 .connectTimeout(10000, TimeUnit.MILLISECONDS) // đợi lâu ngắt kết nối
                 .retryOnConnectionFailure(true)   // cố gắng két nối
                 .protocols(Collections.singletonList(Protocol.HTTP_1_1)) // khi kết nối phần giao thức server ko tìm đc như : HTTP..
+                .addInterceptor(new MockInterceptor(MVPApp.getmContextApp(), true)) // tạm thời get dữ liệu demo
                 .build();
 
         // khi dữ liệu trả từ server về Gson sẽ thực hiện đọc dữ liệu từ khóa API về thành từ khóa java
