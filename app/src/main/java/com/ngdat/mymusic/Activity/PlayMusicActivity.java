@@ -10,6 +10,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.StrictMode;
+import android.util.Log;
 import android.view.View;
 import android.widget.ImageButton;
 import android.widget.SeekBar;
@@ -86,10 +87,15 @@ public class PlayMusicActivity extends AppCompatActivity {
         GetDataFromItent();
 
         //khởi tạo bài hát dầu tiên
-
-
-        mMediaPlayer = MediaPlayer.create(this, Uri.parse(baiHatList.get(0).getLinkBaiHat()));
-        mMediaPlayer.start();
+        mMediaPlayer = new MediaPlayer();
+        try {
+            mMediaPlayer.setDataSource(this, Uri.parse(baiHatList.get(0).getLinkBaiHat()));
+            mMediaPlayer.prepare(); // Chuẩn bị file
+            mMediaPlayer.start();   // Bắt đầu phát
+        } catch (IOException e) {
+            e.printStackTrace();
+            Log.e("MediaPlayer", "Error preparing MediaPlayer: " + e.getMessage());
+        }
         //set title action bar
         getSupportActionBar().setTitle(baiHatList.get(0).getTenBaiHat());
         TimeSong();
