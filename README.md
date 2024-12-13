@@ -43,9 +43,9 @@ cập nhật:
         "CaSi": "Sơn Tùng M-TP",
         "LinkBaiHat": "https://a128-z3.zmdcdn.me/756ba39ea07eb46c326b54c999668a94?authen=exp=1734249243~acl=/756ba39ea07eb46c326b54c999668a94*~hmac=2af654fafb6c29c8580365256838ea8e&fs=MHx3ZWJWNXwxMDMdUngNTmUsICdUngMjIxLjI3&filename=Lạc%20Trôi%20-%20Sơn%20Tùng%20M-TP.mp3",
         "LuotThich": "528374"
-        }
+    }
    ```
-- Phiên bản cũ **exp=1733308733** => phiên bản mới **exp=1734249243**
+- Phiên bản cũ **exp=`1733308733`** => phiên bản mới **exp=`1734249243`**
 
 #### Màn hình
 
