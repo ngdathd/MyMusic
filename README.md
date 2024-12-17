@@ -45,7 +45,7 @@ cập nhật:
         "LuotThich": "528374"
     }
    ```
-- Phiên bản cũ **exp=`1733308733`** => phiên bản mới **exp=`1734249243`**
+- Chú ý phần `LinkBaiHat`: phiên bản cũ **exp=`1733308733`** => phiên bản mới **exp=`1734249243`**
 
 #### Màn hình
 
